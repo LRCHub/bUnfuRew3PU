@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hello Song",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-04T05:57:37.393679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_Hello_Song_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HELLO (Song By Austn)",
+      "artist": "KozyPop",
+      "has_synced": true,
+      "path": "select/02_HELLO_(Song_By_Austn)_KozyPop.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Hello Song",
+      "artist": "StoryBots",
+      "has_synced": false,
+      "path": "select/03_The_Hello_Song_StoryBots.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "Yo Gabba Gabba!",
+      "has_synced": false,
+      "path": "select/04_Hello_Song_Yo_Gabba_Gabba!.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Emma’s Hello Song",
+      "artist": "The Wiggles",
+      "has_synced": true,
+      "path": "select/05_Emma’s_Hello_Song_The_Wiggles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Emma’s Hello Song",
+      "artist": "Wiggles, The",
+      "has_synced": true,
+      "path": "select/06_Emma’s_Hello_Song_Wiggles,_The.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "The Wiggles",
+      "has_synced": true,
+      "path": "select/07_Hello_Song_The_Wiggles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "Music Together",
+      "has_synced": false,
+      "path": "select/08_Hello_Song_Music_Together.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/09_Hello_Song_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "The Singing Walrus",
+      "has_synced": true,
+      "path": "select/10_Hello_Song_The_Singing_Walrus.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "Cocomelon",
+      "has_synced": false,
+      "path": "select/11_Hello_Song_Cocomelon.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "Lingokids",
+      "has_synced": true,
+      "path": "select/12_Hello_Song_Lingokids.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "Aitak Ajangzad",
+      "has_synced": false,
+      "path": "select/13_Hello_Song_Aitak_Ajangzad.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "The Kiboomers",
+      "has_synced": true,
+      "path": "select/14_Hello_Song_The_Kiboomers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hello Song",
+      "artist": "Yo Gabba Gabba!",
+      "has_synced": true,
+      "path": "select/15_Hello_Song_Yo_Gabba_Gabba!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hello Song",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Hello_Song_星野源.txt"
+    }
+  ]
+}
